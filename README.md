@@ -1,4 +1,4 @@
 duomodtools
 ===========
 
-productivity tools for Duolingo moderators
+productivity tools for Duolingo moderators.
